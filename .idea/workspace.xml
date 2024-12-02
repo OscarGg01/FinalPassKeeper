@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7fbbabc-1036-46cf-90a7-a1a9991a3b1a" name="Changes" comment="Se cmabio de nombre el proyecto">
-      <change beforePath="$PROJECT_DIR$/.idea/FinalPassKeeper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FinalPassKeeper.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b7fbbabc-1036-46cf-90a7-a1a9991a3b1a" name="Changes" comment="Se añadió los requerimientos para el entorno virttual" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +103,7 @@
       <workItem from="1733126790007" duration="4000" />
       <workItem from="1733126799842" duration="31000" />
       <workItem from="1733127350915" duration="52000" />
-      <workItem from="1733128367433" duration="684000" />
+      <workItem from="1733128367433" duration="1005000" />
     </task>
     <task id="LOCAL-00001" summary="Base del proyecto passkeeper">
       <option name="closed" value="true" />
@@ -197,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733127397637</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Se añadió los requerimientos para el entorno virttual">
+      <option name="closed" value="true" />
+      <created>1733129381272</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1733129381272</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,6 +218,7 @@
     <MESSAGE value="Se añadió imagen a la aplicación" />
     <MESSAGE value=".idea" />
     <MESSAGE value="Se cmabio de nombre el proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se cmabio de nombre el proyecto" />
+    <MESSAGE value="Se añadió los requerimientos para el entorno virttual" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se añadió los requerimientos para el entorno virttual" />
   </component>
 </project>
