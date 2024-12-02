@@ -40,7 +40,7 @@ def ventana_principal():
     root.config(bg="#013161")  # Cambiar el color de fondo
 
     try:
-        imagen = Image.open("D:\\Programa\\seguridad.png")  # Cambia "seguridad.png" a la ruta correcta de tu imagen
+        imagen = Image.open("D:\\Proyectos\\PassKeeper\\seguridad.png")  # Cambia "seguridad.png" a la ruta correcta de tu imagen
         logo_img = ImageTk.PhotoImage(imagen)
         logo_label = tk.Label(root, image=logo_img, bg="#013161")  # Ajusta el color de fondo
         logo_label.pack(pady=10)
