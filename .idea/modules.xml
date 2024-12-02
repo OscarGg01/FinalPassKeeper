@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PassKeeper.iml" filepath="$PROJECT_DIR$/.idea/PassKeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FinalPassKeeper.iml" filepath="$PROJECT_DIR$/.idea/FinalPassKeeper.iml" />
     </modules>
   </component>
 </project>
